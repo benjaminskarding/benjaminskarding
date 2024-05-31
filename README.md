@@ -1,6 +1,6 @@
 # Hi. I'm Ben.
 
-I'm a Web Developer with a passion for creating aesthetically pleasing and functional applications.
+I'm a Web Developer with a passion for creating aesthetically pleasing and optimized applications.
 
 ## Skills
 - Design
