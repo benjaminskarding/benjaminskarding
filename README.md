@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi. I'm Ben.
 
-<!--
-**benjaminskarding/benjaminskarding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer with a passion for creating aesthetically pleasing and functional applications.
 
-Here are some ideas to get you started:
+## Skills
+- Design
+- HTML
+- CSS
+- JavaScript
+- 3D Modeling & Rendering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Portfolio:
+
+
+## Contact
+Feel free to reach out to me:
+- Email benjamin.skarding@hotmail.com
+- LinkedIn www.linkedin.com/in/benjamin-skarding-752ba0296
