@@ -13,12 +13,23 @@ I am currently completing my **Front-End Development** studies at **Noroff Schoo
 - **3D Modeling & Rendering**
 - **Applied Machine Learning Fundamentals** 
 
-## My Portfolio: 
+## My Portfolio
 www.besk.io
 
+## Services Include
+🖥️ Website Development
+📱 Mobile App Development
+🛒 E-commerce Solutions
+🗄️ Database Integration
+
+📈 Digital Marketing
+🔎 SEO Optimization
+
+
+🧩 3D Modeling & Rendering
 
 ## Contact    
-Feel free to reach out to me:
+Feel free to reach out to me
 
 - Email benjamin.skarding@hotmail.com 
 
