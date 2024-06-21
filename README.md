@@ -13,7 +13,7 @@ I am currently completing my **Front-End Development** studies at **Noroff Schoo
 - **3D Modeling & Rendering**
 - **Applied Machine Learning Fundamentals** 
 
-## My Portfolio
+## Portfolio
 www.besk.io
 
 ## Services Include
