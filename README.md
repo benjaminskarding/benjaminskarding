@@ -11,6 +11,7 @@ I am currently completing my **Front-End Development** studies at **Noroff Schoo
 - **JavaScript**
 - **Python**
 - **3D Modeling & Rendering**
+- **Applied Machine Learning Fundamentals**
 
 ## My Portfolio:
 https://benjaminskarding.github.io/SkarRepos/index.html
