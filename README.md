@@ -9,6 +9,7 @@ I am currently completing my **Front-End Development** studies at **Noroff Schoo
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Python**
 - **3D Modeling & Rendering**
 
 ## My Portfolio:
@@ -16,6 +17,6 @@ https://benjaminskarding.github.io/SkarRepos/index.html
 
 
 ## Contact
-Feel free to reach out to me:
+Feel free to reach out to me, i do freelance work!:
 - Email benjamin.skarding@hotmail.com
 - LinkedIn www.linkedin.com/in/benjamin-skarding-752ba0296
