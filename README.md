@@ -14,7 +14,7 @@ I am currently completing my **Front-End Development** studies at **Noroff Schoo
 - **Applied Machine Learning Fundamentals** 
 
 ## Portfolio
-www.besk.io
+https://benjaminskarding.github.io/SkarRepos/#
 
 ## Services Include
 🖥️ Website Development
