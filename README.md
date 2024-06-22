@@ -18,7 +18,6 @@ www.besk.io
 
 ## Services Include
 🖥️ Website Development
-📱 Mobile App Development
 🛒 E-commerce Solutions
 🗄️ Database Integration
 
